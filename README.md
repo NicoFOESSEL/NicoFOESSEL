@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+## Student in cybersecurity, freelance back-end developer and apprentice at the CEA ! 
+ 
+
+
+
+
 <!--
 **NicoFOESSEL/NicoFOESSEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
