@@ -2,7 +2,9 @@
 
 
 ## Student in cybersecurity, freelance back-end developer and apprentice at the CEA ! 
- 
+
+## Readme being created, see you soon for more info ! 🏋️
+
 
 
 
