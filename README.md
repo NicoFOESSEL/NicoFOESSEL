@@ -10,26 +10,26 @@
 
 
 ## Languages et outils : 
-<!-- Voir raison changement couleur -->
 
-[![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
-[![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 <!-- ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android) -->
-[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
-[![Spring-boot](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
-
-[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
+![Spring-boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
 
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=F1F1F1)](https://www.linux.org/)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
-[![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
