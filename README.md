@@ -19,7 +19,6 @@
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNUBash&logoColor=F5F5F5)
-<!-- ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android) -->
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
@@ -42,6 +41,15 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=jetbrains)
 ![CLion](https://img.shields.io/badge/-CLion-black?style=flat-square&logo=jetbrains)
 ![Vim](https://img.shields.io/badge/-Vim-black?style=flat-square&logo=vim)
+
+![TryHachMe](https://img.shields.io/badge/-TryHackMe-black?style=flat-square&logo=TryHackMe)
+![TryHachMe](https://img.shields.io/badge/-Hack%20The%20Box-black?style=flat-square&logo=HackTheBox)
+
+
+
+#### Prochainement : 
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio)
+![Android](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
 
 ## Quelques stats : 
 
