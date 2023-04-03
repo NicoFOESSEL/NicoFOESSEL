@@ -6,20 +6,20 @@
 ## Readme en cours de création, à bientôt pour de nouvelles infos ! 🏋️
 
 
-[![NicoFOESSEL](https://github-profile-trophy.vercel.app/?username=NicoFOESSEL&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+[![NicoFOESSEL](https://github-profile-trophy.vercel.app/?username=NicoFOESSEL&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Languages et outils : 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 <!-- ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android) -->
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
 ![Spring-boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring)
