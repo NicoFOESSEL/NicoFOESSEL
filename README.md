@@ -18,6 +18,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNUBash&logoColor=F5F5F5)
 <!-- ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android) -->
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)
@@ -28,18 +29,19 @@
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
+![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-black?style=flat-square&logo=jetbrains)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=jetbrains)
 ![CLion](https://img.shields.io/badge/-CLion-black?style=flat-square&logo=jetbrains)
+![Vim](https://img.shields.io/badge/-Vim-black?style=flat-square&logo=vim)
 
 ## Quelques stats : 
 
@@ -49,8 +51,8 @@
 
 
 <!-- Voir pourquoi fonctionnent pas -->
-<!-- 
 
+<!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoFOESSEL&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NicoFOESSEL.NicoFOESSEL)
