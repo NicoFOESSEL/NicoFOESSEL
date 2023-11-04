@@ -1,7 +1,7 @@
 # Hi 👋
 
 
-## Etudiant en sécurité informatique à l'ESGI, développeur Back-end en freelance et apprenti au CEA ! 
+## Etudiant en sécurité informatique à l'ESGI et développeur Back-end en freelance! ! 
 
 ## Readme en cours de création, à bientôt pour de nouvelles infos ! 🏋️
 
