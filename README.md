@@ -58,6 +58,7 @@
 
 ![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=NicoFOESSEL&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Voir pourquoi fonctionnent pas -->
 
