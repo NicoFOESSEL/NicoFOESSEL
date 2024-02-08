@@ -16,10 +16,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNUBash&logoColor=F5F5F5)
-![Crates.io MSRV](https://img.shields.io/crates/msrv/:crate)
+![Rust](https://img.shields.io/badge)
 
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
