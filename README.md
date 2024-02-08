@@ -19,6 +19,8 @@
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNUBash&logoColor=F5F5F5)
+![Rust](https://img.shields.io/crates/msrv/:crate)
+)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)
