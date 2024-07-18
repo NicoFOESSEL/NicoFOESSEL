@@ -6,7 +6,7 @@
 ## Readme en cours de création, à bientôt pour de nouvelles infos ! 🏋️
 
 
-[![NicoFOESSEL](https://github-profile-trophy.vercel.app/?username=NicoFOESSEL&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+[![NicoFOESSEL](https://github-profile-trophy.vercel.app/?username=NicoFOESSEL&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Languages et outils : 
