@@ -56,7 +56,7 @@
 
 ## Quelques stats : 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NicoFOESSEL&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&border_radius=5&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoFOESSEL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
